@@ -1,6 +1,6 @@
 # iUpi – MVP de Adquisición y Conversión (NoCountry)
 
-## 📌 Contexto del proyecto
+##  Contexto del proyecto
 
 iUpi Ahorro & Inversiones es una app fintech educativa que permite a las personas **aprender, practicar y entender cómo ahorrar e invertir sin usar dinero real**, antes de dar el salto al mercado real.
 
@@ -17,7 +17,7 @@ Este proyecto se desarrolla en el marco de la simulación de NoCountry.
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 El objetivo principal es **mejorar la adquisición y la conversión del MVP**, enfocándonos especialmente en el problema más crítico detectado:
 
@@ -31,7 +31,7 @@ Si el usuario no deja su email, no hay forma de:
 
 ---
 
-## 🚨 Problema identificado
+## Problema identificado
 
 Detectamos que **existe interés real**, pero algo frena al usuario en el último paso.
 
@@ -46,7 +46,7 @@ El problema no es técnico, sino **de comunicación, confianza y medición**.
 
 ---
 
-## 🧠 Hipótesis de trabajo
+## Hipótesis de trabajo
 
 - Si humanizamos la comunicación, aumenta la confianza.
 - Si mostramos el simulador en uso, baja la fricción.
@@ -56,7 +56,7 @@ El problema no es técnico, sino **de comunicación, confianza y medición**.
 
 ---
 
-## 💡 Solución propuesta
+## Solución propuesta
 
 ### 1. Comunicación & Branding
 - Cambio de tono: de institucional a mentor cercano.
@@ -81,7 +81,7 @@ Esto permite:
 
 ---
 
-## 📊 Métricas a analizar
+##  Métricas a analizar
 
 - Conversion Rate (visitas → registros).
 - Registros por canal.
@@ -91,7 +91,7 @@ Esto permite:
 
 ---
 
-## 👥 Equipo y roles
+##  Equipo y roles
 
 - **Product & Growth Lead:** Liria Olivera  
 - **Data & Tracking:** Leonel Amaya, Diego Lopez, Cristhian Flores  
@@ -102,7 +102,7 @@ Cada rol aporta desde su especialidad para resolver el mismo problema: convertir
 
 ---
 
-## 📦 Entregables esperados
+## Entregables esperados
 
 - Diagnóstico de comunicación y conversión.
 - Propuesta de mejora de branding y contenido.
@@ -112,7 +112,7 @@ Cada rol aporta desde su especialidad para resolver el mismo problema: convertir
 
 ---
 
-## 🧭 Enfoque del proyecto
+## Enfoque del proyecto
 
 No buscamos “codear por codear”.  
 Buscamos **resolver un problema real de negocio** con soluciones simples, justificadas y medibles.
