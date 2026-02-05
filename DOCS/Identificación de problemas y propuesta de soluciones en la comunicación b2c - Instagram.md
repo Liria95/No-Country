@@ -157,13 +157,13 @@ Esto permitirá:
 
 ### 4.1 Problemas detectados > Objetivos de contenido
 
-Problema detectado > Objetivo de contenido**
+**Problema detectado > Objetivo de contenido**
 
-Comunicación genérica > Clarificar propuesta de valor en < 3 segundos
-Tono institucional > Humanizar y generar identificación
-Visual plano > Aumentar scroll-stop y retención
-Baja conversión > Llevar tráfico calificado al link
-Falta de trazabilidad > Medir canal Instagram de forma consistente
+Comunicación genérica > Clarificar propuesta de valor en < 3 segundos.
+Tono institucional > Humanizar y generar identificación.
+Visual plano > Aumentar scroll-stop y retención.
+Baja conversión > Llevar tráfico calificado al link.
+Falta de trazabilidad > Medir canal Instagram de forma consistente.
 
 ***Regla*** *Cada pieza de contenido debe cumplir ***al menos uno*** de estos objetivos* 
 
