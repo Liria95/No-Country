@@ -1,4 +1,4 @@
-# Análisis de comunicación B2C – Instagram
+# Identificación de problemas y propuesta de soluciones en la comunicación B2C – Instagram
 
 ## 1. Contexto y objetivo del informe
 
