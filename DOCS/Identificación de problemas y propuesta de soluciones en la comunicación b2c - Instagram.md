@@ -58,7 +58,8 @@ Estos factores juntos generan una **baja tasa de conversión del perfil**, ya qu
 - Introducir un disparador emocional (miedo, duda o inseguridad al invertir).
 - CTA claro hacia el link.
 
-Ejemplo conceptual (no definitivo):
+Ejemplos conceptuales (no definitivos):
+
 > *📉 Practicá ahorro e inversión sin dinero real*
 > *🚀 Aprendé, equivocáte y ganá confianza*
 > *👇 Sumate a la lista de espera*
