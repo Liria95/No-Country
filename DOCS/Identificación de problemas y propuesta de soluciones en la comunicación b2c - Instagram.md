@@ -34,7 +34,7 @@ Actualmente, la cuenta se posiciona más como un **canal informativo institucion
 
 **Alternativas sugeridas**
 - *@iUpi.ar*
-- *iUpi.finance
+- *iUpi.finance*
 
 ### 3.2 Biografía (Bio)
 
