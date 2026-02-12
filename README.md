@@ -1,123 +1,94 @@
-# iUpi – MVP de Adquisición y Conversión (NoCountry)
+# iUpi – Estrategia de Validación MVP
 
-## Contexto del Proyecto
+## Contexto
 
-iUpi Ahorro & Inversiones es una app fintech educativa que permite a las personas aprender, practicar y entender cómo ahorrar e invertir sin utilizar dinero real.
+iUpi es una solución digital orientada a profesionales independientes del sector belleza y bienestar (esteticistas, cosmetólogas, técnicas en uñas, masajistas, etc.) que buscan organizar su agenda, reducir cancelaciones y profesionalizar su gestión de turnos.
 
-Está dirigida a personas de 25 a 45 años con ingresos estables y capacidad de ahorro que:
-
-- No tienen conocimientos financieros.
-- Nunca invirtieron o tuvieron malas experiencias.
-- Tienen miedo de perder su dinero.
-- Desconfían de plataformas tradicionales.
-- Quieren proteger su patrimonio, pero no saben por dónde empezar.
-
-iUpi acompaña desde cero con un enfoque simple, humano y práctico.
-
-Este proyecto se desarrolla en el marco de la simulación profesional de NoCountry.
-
----
-
-## Objetivo del Proyecto
-
-Optimizar la adquisición y conversión del MVP, enfocándonos en el principal cuello de botella detectado:
-
-> Alto tráfico en la landing page, pero baja conversión a registro en la lista de espera.
-
-El registro por email es la puerta de entrada al producto y el primer paso hacia la activación del usuario.
+El objetivo de este MVP no es lanzar el producto completo, sino validar el interés real del mercado y la intención de uso mediante una estrategia de adquisición digital.
 
 ---
 
 ## Problema Detectado
 
-Existe interés inicial, pero el usuario no da el último paso.
+Profesionales independientes enfrentan:
 
-Principales fricciones identificadas:
-
-- Baja percepción de confianza (marca nueva).
-- Mensaje institucional y poco humano.
-- Concepto de “simulación financiera” poco claro.
-- CTA ambiguo.
-- Falta de medición clara por canal.
-- Ausencia de prueba visual del producto en acción.
-
-No es un problema técnico.
-Es un problema de claridad, confianza y optimización de conversión.
+- Turnos olvidados o cancelaciones de último momento.
+- Desorden en agenda (WhatsApp, papel, Instagram).
+- Falta de recordatorios automáticos.
+- Estrés operativo diario.
+- Imagen poco profesional frente a clientes.
 
 ---
 
-## Hipótesis
+## Hipótesis del MVP
 
-1. Si humanizamos el mensaje, aumenta la confianza.
-2. Si mostramos el simulador funcionando, disminuye la incertidumbre.
-3. Si clarificamos el CTA, mejora la tasa de conversión.
-4. Si implementamos tracking por canal, optimizamos la inversión en adquisición.
-5. Si comunicamos el beneficio emocional (invertir sin miedo), aumentará la intención de registro.
+Si comunicamos el problema real de organización y presentamos una solución simple y clara,
+entonces las profesionales dejarán su email para acceder anticipadamente a la herramienta.
 
 ---
 
-## Solución Propuesta
+## Alcance del MVP
 
-### 1. Optimización de Comunicación
+Este MVP incluye:
 
-- Cambio de tono: de institucional a mentor cercano.
-- Mensajes centrados en beneficios emocionales.
-- Ejemplos reales y cotidianos.
-- Video demo corto mostrando el flujo.
-- CTA claro y directo:
-  “Probá antes de invertir tu dinero real.”
+- Landing page simple con propuesta clara.
+- Captura de email.
+- Secuencia automatizada de bienvenida.
+- Estrategia de adquisición orgánica en Instagram y LinkedIn.
+- Medición de métricas clave.
+
+Este MVP NO incluye:
+
+- Desarrollo completo del producto.
+- Sistema funcional avanzado.
+- Integraciones externas complejas.
+
+El objetivo principal es validar adquisición y conversión.
 
 ---
 
-### 2. MVP Técnico – Waitlist Medible
+## Canales Estratégicos
 
-Implementación de un sistema mínimo pero estratégico:
+### B2C – Instagram
+Captación de profesionales independientes 25–35 años.
 
-- Formulario optimizado.
-- Tracking con UTM por canal.
-- Base de datos estructurada.
-- Dashboard de métricas.
-- Evento de abandono del formulario.
+### B2B – LinkedIn
+Posicionamiento estratégico y validación institucional (30–45 años).
 
-Esto permite:
+### Expansión Fase 2 – TikTok
+Canal potencial para awareness y educación simplificada.
 
-- Detectar el canal con mayor conversión real.
-- Medir impacto antes/después.
-- Tomar decisiones basadas en datos.
+### Facebook (Rol Secundario)
+- Repositorio institucional.
+- Refuerzo de contenido.
+- Posible canal pago futuro.
+- No foco principal en MVP.
 
 ---
 
 ## Métricas Clave
 
-- Conversion Rate (Visitas → Registros).
-- Registros por canal.
-- Costo por registro (si aplica).
-- Tasa de abandono.
-- Tiempo promedio en landing.
-
-Objetivo inicial: aumentar la conversión en un 20–30% tras la optimización.
+- CTR hacia landing.
+- Tasa de conversión a registro.
+- Costo por lead (si se pauta).
+- Tasa de apertura email.
+- Interacción cualitativa.
 
 ---
 
 ## Impacto Esperado
 
-- Mayor confianza en la marca.
-- Mensaje claro y comprensible.
-- Reducción de fricción.
-- Mejor asignación de recursos de adquisición.
-- Crecimiento sostenible de la base de usuarios.
+- Validación temprana de interés real.
+- Construcción de base inicial de leads.
+- Aprendizaje sobre fricciones del mercado.
+- Base estratégica para desarrollo futuro.
 
 ---
 
 ## Enfoque Estratégico
 
-No buscamos rehacer el producto.
-Buscamos validar hipótesis de crecimiento con soluciones simples, medibles y escalables.
+Este proyecto prioriza:
 
-El foco está en:
-
-- Claridad
-- Confianza
-- Datos
-- Ejecución estratégica
-- Aprendizaje continuo
+- Validación antes que desarrollo.
+- Claridad antes que complejidad.
+- Aprendizaje antes que escala.
