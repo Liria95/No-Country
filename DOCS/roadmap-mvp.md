@@ -1,66 +1,152 @@
-# Roadmap del MVP – iUpi (Adquisición y Conversión)
+# Roadmap del MVP – iUpi  
+Enfoque: Adquisición, Claridad y Conversión
 
 Este roadmap describe las etapas del MVP enfocado en resolver el principal problema detectado:
-mucho interés, pero baja conversión en registros (waitlist).
 
-El foco no está en construir una app completa, sino en validar hipótesis de negocio con el menor esfuerzo técnico posible.
+Mucho interés → Baja conversión en registros (waitlist).
 
+El objetivo no es construir una app completa, sino validar hipótesis de negocio con el menor esfuerzo técnico posible y con foco en aprendizaje.
 
-## Etapa 1 – Diagnóstico (Semana 0)
-Objetivo: entender por qué los usuarios no convierten.
+---
 
-- Análisis de la web y redes actuales.
-- Identificación de fricciones en el mensaje y el CTA.
-- Definición del problema principal: falta de confianza y claridad.
-- Alineación del equipo sobre el objetivo del MVP.
+## Objetivo General del MVP
 
-Resultado:
-Problema claro + objetivo medible.
+Validar si:
 
+- La propuesta de valor es comprendida.
+- La comunicación genera confianza.
+- Los canales atraen tráfico calificado.
+- Es posible aumentar la conversión optimizando mensaje y claridad.
 
-## Etapa 2 – Propuesta de solución (Semana 1)
-Objetivo: definir cómo atacar el problema.
+---
 
-- Redefinición del tono de comunicación.
-- Propuesta de nuevo mensaje de valor.
-- Diseño del sistema de waitlist con tracking de origen.
-- Definición de métricas clave.
+# Etapa 1 – Diagnóstico (Semana 0)
 
-Resultado:
-Estrategia clara + alcance del MVP.
+## Objetivo
+Entender por qué los usuarios no convierten.
 
+## Acciones
 
-## Etapa 3 – Diseño y contenido (Semana 1–2)
-Objetivo: humanizar la marca y reducir fricción.
+- Análisis de la web actual.
+- Revisión de perfiles sociales.
+- Identificación de fricciones en mensaje y CTA.
+- Detección de inconsistencias visuales.
+- Definición del problema principal:
+  - Falta de claridad.
+  - Falta de confianza.
+  - Falta de trazabilidad por canal.
 
-- Mockup del perfil de Instagram (bio, destacadas, feed).
-- Carruseles educativos orientados a confianza.
-- Reels explicativos con lenguaje simple.
-- Documentación visual del sistema de comunicación.
+## Resultado Esperado
 
-Resultado:
-Evidencia visual de la solución.
+- Problema claramente definido.
+- Objetivo del MVP alineado.
+- Métrica principal seleccionada (Conversion Rate).
 
+---
 
-## Etapa 4 – MVP técnico (Semana 2–3)
-Objetivo: medir, no escalar.
+# Etapa 2 – Redefinición Estratégica (Semana 1)
 
+## Objetivo
+Definir cómo atacar el problema con el menor esfuerzo posible.
+
+## Acciones
+
+- Redefinir propuesta de valor:
+  - “Aprender y practicar inversiones sin riesgo”.
+- Ajustar tono (menos institucional, más humano).
+- Redefinir CTA principal.
+- Diseñar sistema de tracking por canal (UTMs).
+- Definir hipótesis y métricas clave.
+
+## Resultado Esperado
+
+- Estrategia clara.
+- Alcance del MVP definido.
+- Sistema de medición planteado.
+
+---
+
+# Etapa 3 – Diseño y Comunicación (Semana 1–2)
+
+## Objetivo
+Reducir fricción y aumentar confianza antes del clic.
+
+## Acciones
+
+- Optimización de Instagram:
+  - Bio clara.
+  - CTA directo.
+  - Destacadas estratégicas.
+- Diseño de carruseles educativos.
+- Reels explicativos simples.
+- Plantillas visuales consistentes.
+- Optimización básica de LinkedIn (credibilidad).
+
+## Resultado Esperado
+
+- Comunicación coherente.
+- Propuesta entendible en menos de 3 segundos.
+- Evidencia visual del nuevo enfoque.
+
+---
+
+# Etapa 4 – MVP Técnico (Semana 2–3)
+
+## Objetivo
+Medir comportamiento real, no escalar.
+
+## Implementación
+
+- Landing simple optimizada.
 - Formulario de registro (email).
-- Campo de canal de origen.
-- Base de datos simple.
-- Visualización básica de métricas.
+- Campo oculto o dinámico de canal de origen.
+- Base de datos mínima.
+- Visualización básica de métricas (dashboard simple o planilla).
 
-Resultado:
-Datos reales para tomar decisiones.
+## Métricas a Capturar
 
+- Visitas.
+- Registros.
+- Conversion Rate.
+- Registros por canal.
+- Abandono de formulario.
 
-## Etapa 5 – Evaluación y aprendizajes (Semana 4)
-Objetivo: cerrar el ciclo.
+## Resultado Esperado
 
-- Análisis de resultados.
-- Validación o descarte de hipótesis.
-- Documentación de aprendizajes.
+- Datos reales.
+- Validación inicial de hipótesis.
+- Base para decisiones futuras.
+
+---
+
+# Etapa 5 – Evaluación y Aprendizajes (Semana 4)
+
+## Objetivo
+Cerrar el ciclo de validación.
+
+## Acciones
+
+- Comparación antes vs después.
+- Análisis por canal.
+- Revisión de hipótesis (validada / parcialmente validada / descartada).
+- Identificación de mejoras futuras.
 - Preparación de demo final.
 
-Resultado:
-Aprendizaje + proyecto presentable.
+## Resultado Esperado
+
+- Aprendizajes documentados.
+- Decisiones fundamentadas en datos.
+- Proyecto sólido y defendible.
+
+---
+
+# Principio del Roadmap
+
+Este MVP no busca volumen.
+
+Busca claridad.
+
+No se construye para impresionar.
+Se construye para aprender.
+
+Cada etapa existe para reducir incertidumbre antes de invertir más recursos.
