@@ -1,168 +1,242 @@
-# LinkedIn Strategy – iUpi
-Guía de diseño y contenido para LinkedIn orientada a validación, alianzas estratégicas y early adopters profesionales.
+# LinkedIn Strategy – iUpi  
+Guía estratégica de diseño y contenido para LinkedIn orientada a validación de mercado, alianzas estratégicas y posicionamiento profesional.
 
+---
 
-## 1. Objetivo del Canal
+## 1. Rol de LinkedIn dentro del Ecosistema iUpi
 
-LinkedIn se utiliza como canal de:
+LinkedIn cumple un rol diferente a Instagram dentro del funnel general.
 
-- Validación de la marca iUpi como Fintech / EdTech.
+Mientras Instagram busca conversión B2C (registros), LinkedIn se enfoca en:
+
+- Validación de propuesta de valor.
+- Construcción de credibilidad.
 - Atracción de alianzas estratégicas (B2B / B2B2C).
-- Early adopters profesionales.
-- Credibilidad frente a inversores, partners y empresas.
+- Early adopters profesionales con capacidad de ahorro.
+- Potencial atracción de inversores.
 
-**No es un canal comercial directo al usuario final.**
+LinkedIn no es un canal de venta masiva, sino un canal de posicionamiento estratégico.
 
+---
 
 ## 2. Diagnóstico Inicial
 
-Problemas detectados en la presencia actual:
+### Problemas detectados
 
 - Página institucional sin personalidad.
 - Uso de imágenes de stock genéricas.
-- Diseños fríos, bancarios o corporativos.
+- Estética bancaria o corporativa tradicional.
 - Copy aspiracional sin propuesta de valor clara.
-- Falta de actividad (sensación de “página fantasma”).
+- Baja actividad (sensación de abandono).
+- Desconexión entre mensaje B2C y narrativa B2B.
 
+### Impacto
 
-## 3. Enfoque Estratégico: Founder Brand
+- No se genera conversación.
+- No se valida el mensaje.
+- No se atraen alianzas.
+- Se percibe como una fintech más.
 
-**Regla clave de LinkedIn:**
-La tracción no viene de la página, viene del perfil del Founder.
+---
 
-- El perfil del Founder es el canal principal.
-- La página de empresa funciona como landing de credibilidad.
-- Todo diseño debe poder adaptarse a:
-  - Perfil personal (Founder)
-  - Página de empresa (secundario)
+## 3. Enfoque Estratégico: Founder-Led Growth
 
+En LinkedIn la tracción no proviene de la página de empresa, sino del perfil personal del Founder.
 
-## 4. Optimización de Página de Empresa (Diseño)
+### Estrategia
 
-### Banner de LinkedIn
+- El Founder comunica visión, aprendizaje y avances.
+- La página de empresa respalda institucionalmente.
+- Los posts clave se publican desde el perfil personal.
+- La página puede repostear contenido relevante.
+
+**Objetivo:** humanizar la marca y generar conversación real.
+
+---
+
+## 4. Optimización de Página de Empresa
+
+### 4.1 Banner
 
 **Objetivo:** explicar qué hace iUpi en 3 segundos.
 
-**Texto sugerido (ejemplo):**
+**Texto sugerido:**
+
 > Aprendé a invertir sin arriesgar tu capital  
-> Simulador de inversiones – Beta abierta
+> Simulador de inversiones | Educación financiera práctica
 
-**Visual:**
-- 
+**Visual recomendado:**
 
-### Logo y estética general
+- Fondo limpio con colores de marca.
+- Mockup real del producto (no ilustraciones abstractas).
+- 1 frase fuerte + 1 subtítulo.
+- CTA visual sutil: “Beta abierta”.
 
-- Usar logo oficial iUpi.
+**Evitar:**
 
-### Tagline (debajo del nombre)
+- Frases genéricas.
+- Fotos de personas con traje.
+- Gráficos de bolsa irreales.
 
-**Formato:**
-Plataforma de simulación de inversiones y educación financiera gamificada.
+---
 
+### 4.2 Tagline
 
-### Sección “Acerca de” (no diseño, pero guía visual)
+Plataforma de simulación de inversiones y educación financiera sin riesgo.
 
-El diseño de piezas debe reforzar estas ideas:
+Debe ser clara, directa y sin tecnicismos.
 
-- No vendemos inversiones.
-- Vendemos claridad, tranquilidad y confianza.
-- Aprender antes de invertir.
+---
 
+### 4.3 Sección “Acerca de”
 
-## 5. Estrategia de Contenidos (para diseño)
+Estructura recomendada:
 
-### Formatos principales
+1. **Problema:**  
+   La mayoría quiere invertir, pero tiene miedo.
 
-1. Post con imagen + texto largo
-2. Carrusel educativo simple
-3. Imagen de “building in public”
-4. Gráfico con dato duro
-5. Captura real del producto
+2. **Insight:**  
+   No es falta de dinero. Es falta de práctica.
 
+3. **Solución:**  
+   iUpi permite aprender y practicar sin usar dinero real.
 
-## 6. Pilares de Contenido y Diseño
+4. **Diferenciación:**  
+   No somos un broker.  
+   No vendemos inversiones.  
+   Enseñamos antes de que arriesgues tu capital.
 
-### Pilar 1: Dolor del mercado
+---
 
-**Objetivo:** Validación + conversación.
+## 5. Pilares de Contenido
 
-**Diseño:**
-- 
+### Pilar 1: Dolor del Mercado
 
-**Ejemplo visual:**
-Texto grande:
+**Objetivo:** validación y conversación.
+
+**Ejemplo de post:**
+
+Texto principal:
 > El miedo es la principal razón por la que la gente no invierte.
 
-Texto chico:
+Texto secundario:
 > No es falta de dinero. Es falta de práctica.
 
+**Diseño:**
+
+- Fondo limpio.
+- Tipografía grande.
+- Una sola idea por pieza.
+- Espacio negativo generoso.
+
+---
 
 ### Pilar 2: Building in Public
 
-**Objetivo:** Confianza + transparencia.
+**Objetivo:** confianza y transparencia.
+
+**Ejemplos de contenido:**
+
+- “Lanzamos la beta y aprendimos esto…”
+- “El 70% de los usuarios abandona en el paso 2.”
+- “Estamos probando 3 versiones de la landing.”
 
 **Diseño:**
-- 
 
-**Ejemplo visual:**
-- 
+- Capturas reales.
+- Datos simples.
+- Nada sobreproducido.
 
-### Pilar 3: Cultura y Propósito
+Posiciona a iUpi como startup real, no como empresa artificial.
 
-**Objetivo:** Humanizar la marca.
+---
+
+### Pilar 3: Financial Wellness (B2B)
+
+**Objetivo:** abrir conversaciones con empresas.
+
+**Ejemplo de pieza:**
+
+> Programa de Bienestar Financiero para Empleados  
+> Aprender a invertir sin riesgo
 
 **Diseño:**
-- Fotos reales del equipo (aunque sea remoto).
-- Textos simples.
-- Nada corporativo.
 
-**Ejemplo visual:**
-> No somos un broker.  
-> Somos una escuela práctica de inversiones.
+- Slide simple tipo presentación.
+- Mensaje directo.
+- CTA a DM o reunión.
 
-## 7. Frecuencia de Publicación
+**Enfoque:**
 
-- 2 publicaciones semanales.
-- Principalmente desde el perfil del Founder.
-- La página de empresa puede repostear.
+No vender “app”.  
+Vender impacto en bienestar financiero y reducción de estrés.
 
+---
 
-## 8. Acciones de Corto Plazo (15 días)
+### Pilar 4: Producto
 
-### Diseño requerido
+Mostrar:
 
-- Eliminar TODO uso de stock genérico.
-- Crear:
-  - 1 banner de LinkedIn.
-  - 3–5 plantillas reutilizables:
-    - Texto + fondo
-    - Captura producto
-    - Dato / insight
-- Diseños exportables en formato:
-  - 1:1
-  - 4:5
+- Capturas reales.
+- Cómo funciona la simulación.
+- Paso a paso del usuario.
 
+**Objetivo:** reducir fricción y demostrar claridad.
 
-### Pitch B2B – Financial Wellness
+---
 
-**Pieza visual sugerida:**
-- Slide simple / imagen:
-  > Programa de Bienestar Financiero para Empleados  
-  > Aprender a invertir sin riesgo
+## 6. Frecuencia
 
-Visual:
-- 
+- 2 publicaciones semanales desde Founder.
+- 1 repost en página empresa.
+- Interacción estratégica en comentarios relevantes.
 
-## 9. KPIs (referencia para contenido)
+**Constancia > volumen.**
 
-El diseño debe incentivar:
+---
+
+## 7. KPIs Relevantes
+
+No priorizar:
+
+- Likes.
+- Alcance vacío.
+
+Priorizar:
 
 - Comentarios cualitativos.
-- Mensajes directos (DMs).
-- Solicitudes de demo / beta.
-- Interacción real (no likes vacíos).
+- DMs.
+- Solicitudes de demo.
+- Conexiones estratégicas.
+- Conversaciones iniciadas con empresas.
 
+---
 
-## 10. Lineamientos Visuales Generales
+## 8. Lineamientos Visuales Generales
 
-- 
+- No usar stock genérico.
+- No usar estética bancaria.
+- Máximo 1 idea por pieza.
+- Mucho espacio en blanco.
+- Tipografía protagonista.
+- Mostrar producto real siempre que sea posible.
+- Mantener coherencia con Instagram, pero con tono más profesional.
+
+Instagram = emocional  
+LinkedIn = estratégico
+
+---
+
+## 9. Conclusión
+
+LinkedIn no debe competir con Instagram en volumen de registros.
+
+Su función es:
+
+- Construir autoridad.
+- Validar narrativa.
+- Generar alianzas.
+- Atraer early adopters profesionales.
+- Posicionar a iUpi como fintech educativa confiable.
+
+Bien ejecutado, LinkedIn puede convertirse en el canal de mayor calidad estratégica, aunque no sea el de mayor volumen.
