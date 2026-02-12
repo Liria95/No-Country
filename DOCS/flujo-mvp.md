@@ -1,77 +1,54 @@
-# Flujo del MVP – iUpi (Waitlist + Tracking)
+# Flujo del MVP – iUpi
 
-## Objetivo del flujo
+## Objetivo
 
-Este documento describe el flujo funcional del MVP de iUpi enfocado en
-adquisición y conversión de usuarios a través de una lista de espera (waitlist).
+Validar interés real mediante captación de leads.
 
-El objetivo del MVP no es simular inversiones reales, sino validar:
-- Interés del usuario
-- Claridad del mensaje
-- Confianza suficiente para dejar su email
-- Canales de adquisición que mejor convierten
+---
 
+## Flujo del Usuario
 
-## Alcance del MVP
+1. Descubre contenido en Instagram o LinkedIn.
+2. Identifica problema propio.
+3. Hace clic en bio.
+4. Llega a landing clara y directa.
+5. Comprende beneficio.
+6. Deja su email.
+7. Recibe email de bienvenida.
 
-El flujo incluye únicamente:
+---
 
-- Landing page informativa
-- Formulario de registro a la waitlist
-- Captura de email
-- Registro del canal de origen
-- Almacenamiento en base de datos
-- Confirmación visual al usuario
+## Componentes del Flujo
 
-No incluye:
-- Login
-- Perfil de usuario
-- Simulación financiera real
-- Pagos
-- Notificaciones automáticas
+- Contenido educativo.
+- CTA claro.
+- Landing simple.
+- Formulario mínimo.
+- Email automático.
 
-El MVP está diseñado para ser simple, rápido y medible.
+---
 
+## Riesgos del Flujo
 
-## Flujo del usuario (paso a paso)
+- Usuario no entiende el beneficio.
+- Usuario no percibe urgencia.
+- Usuario no confía.
+- Usuario duda en dejar email.
+- Landing demasiado extensa.
 
-1. El usuario descubre iUpi desde un canal (Instagram, LinkedIn, Web, etc.)
-2. Ingresa a la landing page de iUpi
-3. Lee la propuesta de valor:
-   - Aprender a invertir sin usar dinero real
-4. Interactúa con el contenido (texto, mockup, mensaje humano)
-5. Decide dejar su email en el formulario de waitlist
-6. El sistema guarda:
-   - Email
-   - Canal de origen
-   - Fecha de registro
-7. El usuario recibe una confirmación visual clara
-8. El email queda disponible para análisis y futuras comunicaciones
+---
 
+## Métrica Principal
 
-## Representación visual del flujo
+Tasa de conversión a registro.
 
-El flujo se representa de forma lineal y clara:
+Objetivo mínimo validación: 15–20%.
 
-Usuario  
-↓  
-Landing iUpi  
-↓  
-Formulario de Waitlist  
-↓  
-API de Registro  
-↓  
-Base de Datos (SQLite)  
-↓  
-Confirmación al Usuario  
+---
 
-Este flujo está pensado desde la experiencia del usuario, no desde la complejidad técnica.
+## Enfoque UX
 
-
-## Principios del diseño del flujo
-
-- Mobile first
-- Cero fricción
-- Lenguaje simple
-- Acción clara
-- Un solo objetivo: dejar el email
+- Minimalismo.
+- Mensaje directo.
+- Sin distracciones.
+- Foco en problema y solución.
