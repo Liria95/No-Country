@@ -1,94 +1,126 @@
-# iUpi – Estrategia de Validación MVP
+# iUpi – MVP de Adquisición y Conversión (NoCountry)
 
-## Contexto
+##  Contexto del proyecto
 
-iUpi es una solución digital orientada a profesionales independientes del sector belleza y bienestar (esteticistas, cosmetólogas, técnicas en uñas, masajistas, etc.) que buscan organizar su agenda, reducir cancelaciones y profesionalizar su gestión de turnos.
+iUpi Ahorro & Inversiones es una app fintech educativa que permite a las personas **aprender, practicar y entender cómo ahorrar e invertir sin usar dinero real**, antes de dar el salto al mercado real.
 
-El objetivo de este MVP no es lanzar el producto completo, sino validar el interés real del mercado y la intención de uso mediante una estrategia de adquisición digital.
+La propuesta está pensada para personas de 25 a 45 años, con ingresos estables y capacidad de ahorro, que:
+- no entienden de finanzas,
+- nunca invirtieron o lo intentaron sin éxito,
+- tienen miedo de perder su dinero,
+- desconfían de plataformas tradicionales,
+pero quieren cuidar su patrimonio y tomar mejores decisiones.
 
----
+iUpi no asume que el usuario sabe. Acompaña desde cero, con un enfoque simple, humano y práctico.
 
-## Problema Detectado
-
-Profesionales independientes enfrentan:
-
-- Turnos olvidados o cancelaciones de último momento.
-- Desorden en agenda (WhatsApp, papel, Instagram).
-- Falta de recordatorios automáticos.
-- Estrés operativo diario.
-- Imagen poco profesional frente a clientes.
+Este proyecto se desarrolla en el marco de la simulación de NoCountry.
 
 ---
 
-## Hipótesis del MVP
+## Objetivo del proyecto
 
-Si comunicamos el problema real de organización y presentamos una solución simple y clara,
-entonces las profesionales dejarán su email para acceder anticipadamente a la herramienta.
+El objetivo principal es **mejorar la adquisición y la conversión del MVP**, enfocándonos especialmente en el problema más crítico detectado:
 
----
+> Muchas personas visitan la landing page de iUpi, pero no se registran en la lista de espera.
 
-## Alcance del MVP
-
-Este MVP incluye:
-
-- Landing page simple con propuesta clara.
-- Captura de email.
-- Secuencia automatizada de bienvenida.
-- Estrategia de adquisición orgánica en Instagram y LinkedIn.
-- Medición de métricas clave.
-
-Este MVP NO incluye:
-
-- Desarrollo completo del producto.
-- Sistema funcional avanzado.
-- Integraciones externas complejas.
-
-El objetivo principal es validar adquisición y conversión.
+El email es la puerta de entrada al producto.  
+Si el usuario no deja su email, no hay forma de:
+- comunicar novedades,
+- ofrecer la prueba gratuita,
+- ni continuar la relación con el producto.
 
 ---
 
-## Canales Estratégicos
+## Problema identificado
 
-### B2C – Instagram
-Captación de profesionales independientes 25–35 años.
+Detectamos que **existe interés real**, pero algo frena al usuario en el último paso.
 
-### B2B – LinkedIn
-Posicionamiento estratégico y validación institucional (30–45 años).
+Principales frenos:
+- Falta de confianza (marca nueva, poco conocida).
+- Mensaje muy institucional y poco humano.
+- El concepto de “simulación financiera” se percibe como abstracto.
+- CTA confuso: no queda claro si la app se puede usar ahora o no.
+- No se mide correctamente desde qué canal llegan los usuarios que sí convierten.
 
-### Expansión Fase 2 – TikTok
-Canal potencial para awareness y educación simplificada.
-
-### Facebook (Rol Secundario)
-- Repositorio institucional.
-- Refuerzo de contenido.
-- Posible canal pago futuro.
-- No foco principal en MVP.
+El problema no es técnico, sino **de comunicación, confianza y medición**.
 
 ---
 
-## Métricas Clave
+## Hipótesis de trabajo
 
-- CTR hacia landing.
-- Tasa de conversión a registro.
-- Costo por lead (si se pauta).
-- Tasa de apertura email.
-- Interacción cualitativa.
-
----
-
-## Impacto Esperado
-
-- Validación temprana de interés real.
-- Construcción de base inicial de leads.
-- Aprendizaje sobre fricciones del mercado.
-- Base estratégica para desarrollo futuro.
+- Si humanizamos la comunicación, aumenta la confianza.
+- Si mostramos el simulador en uso, baja la fricción.
+- Si aclaramos el CTA y el flujo, mejora la conversión.
+- Si medimos el canal de origen, podemos optimizar esfuerzos de adquisición.
+- Si el usuario entiende el “antes y después”, se anima a dejar su email.
 
 ---
 
-## Enfoque Estratégico
+## Solución propuesta
 
-Este proyecto prioriza:
+### 1. Comunicación & Branding
+- Cambio de tono: de institucional a mentor cercano.
+- Contenido educativo práctico (menos teoría, más ejemplos reales).
+- Presencia humana (personas hablando a cámara).
+- Rediseño visual simple, claro y enfocado en mobile.
+- Uso de mensajes positivos y de empoderamiento.
 
-- Validación antes que desarrollo.
-- Claridad antes que complejidad.
-- Aprendizaje antes que escala.
+### 2. Solución técnica (MVP)
+En lugar de rehacer la app o la web completa, se propone una **solución técnica mínima pero medible**:
+
+**Sistema de waitlist + tracking de canales**
+- Formulario de registro (email).
+- Campo de origen (Instagram, Web, LinkedIn, etc.).
+- Base de datos simple.
+- Dashboard básico de métricas.
+
+Esto permite:
+- entender qué canal convierte mejor,
+- medir mejoras reales,
+- tomar decisiones basadas en datos.
+
+---
+
+##  Métricas a analizar
+
+- Conversion Rate (visitas → registros).
+- Registros por canal.
+- Interacciones con el contenido.
+- Abandono del formulario.
+- Evolución antes y después de los cambios propuestos.
+
+---
+
+##  Equipo y roles
+
+- **Product & Growth Lead:** Liria Olivera  
+- **Data & Tracking:** Leonel Amaya, Diego Lopez, Cristhian Flores  
+- **Content & Storytelling:** John Alviarez  
+- **Diseño Visual:** Daniel Alejandro  
+
+Cada rol aporta desde su especialidad para resolver el mismo problema: convertir interés en usuarios reales.
+
+---
+
+## Entregables esperados
+
+- Diagnóstico de comunicación y conversión.
+- Propuesta de mejora de branding y contenido.
+- MVP técnico (waitlist + tracking).
+- Análisis de datos e insights.
+- Demo final explicando decisiones y resultados.
+
+---
+
+## Enfoque del proyecto
+
+No buscamos “codear por codear”.  
+Buscamos **resolver un problema real de negocio** con soluciones simples, justificadas y medibles.
+
+El foco está en:
+- criterio,
+- claridad,
+- ejecución,
+- y aprendizaje real.
+
+---
